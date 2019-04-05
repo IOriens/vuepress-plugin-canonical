@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-plugin-canonical",
+  "version": "1.0.0",
+  "description": "canonical plugin for vuepress",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+
+  "keywords": [
+    "canonical",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "license": "MIT",
+
+  "dependencies": {
+  }
+}
